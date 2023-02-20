@@ -14,5 +14,5 @@ int main(void)
 		putchar(i);
 	}
 	patchar('\n');
-	return(0);
+	return (0);
 }
